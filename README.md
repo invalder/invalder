@@ -15,6 +15,8 @@ I'm Pon (:thailand:). Nice to meet you !!!
 | [![invalder's GitHub stats](https://github-readme-stats.vercel.app/api?username=invalder&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vision-friendly-dark)](https://github.com/invalder?tab=repositories) | [![invalder's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invalder&layout=compact&hide_border=true&theme=vision-friendly-dark)](https://github.com/invalder?tab=repositories) |
 |:-:|:-:|
 
+---
+
 <p align="center">
   
 	
@@ -33,7 +35,7 @@ I'm Pon (:thailand:). Nice to meet you !!!
 	</a>
 </p>
 
----
+
 
 <!---
 invalder/invalder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
