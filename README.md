@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @invalder
 
-- 👀 I’m interested in ... 
+## Hello World 👋
 
-- 🌱 I’m currently learning ... 
-  42 BKK Pisciner 2021 Batch2
-- 💞️ I’m looking to collaborate on ...
+I'm Pon. Nice to meet you !!!
 
-- 📫 How to reach me ... 
-  https://www.linkedin.com/in/nuttapon-n-53a25438/
+* 🎓    Graduated from Information Engineering.
+* 🛰️    Former Satellite Control Engineer.
+* 🌱    I’m currently learning at [42 Bangkok](https://www.42bangkok.com/).
+* 📫    Feel free to contact me on [Linkedin](https://www.linkedin.com/in/nuttapon-n-53a25438/).
 
 <!---
 invalder/invalder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
