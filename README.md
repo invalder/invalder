@@ -36,6 +36,8 @@ I'm Pon (:thailand:). Nice to meet you !!!
 </p>
 
 
+[![<username>'s 42 stats](https://badge.mediaplus.ma/greenbinary/nnakarac)](https://github.com/oakoudad/badge42)
+
 
 <!---
 invalder/invalder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
