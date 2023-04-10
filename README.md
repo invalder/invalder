@@ -36,7 +36,7 @@ I'm Pon (:thailand:). Nice to meet you !!!
 </p>
 
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/greenbinary/nnakarac)](https://github.com/oakoudad/badge42)
+[![nnakarac's 42 stats](https://badge.mediaplus.ma/greenbinary/nnakarac?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 <!---
